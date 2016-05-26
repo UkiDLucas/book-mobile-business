@@ -15,5 +15,5 @@ Maintaining this book in addition to keeping a blog and GitHub account allows me
 
 This book was written from my hands-on couple of decades of experience as A Marine, automotive mechanic, software developer, technology director, UX expert, architect in fortune 500 and owner of the small 12 person startup, therefore we can advise only what I know. 
 
-If you look for information about finance, taxation, sales, legal issues pertaining running a company you will have to get additional help.  I am really bad at these..
+If you look for information about finance, taxation, sales, legal issues pertaining running a company you will have to get additional help.  I am really bad at these.
 
