@@ -1,14 +1,14 @@
 # Leadership
 
-I would like to start this book with some of the qualities you will have to develop as a leader in order to succeed in your enterprise. Without these qualities the chance of success in the long term is minimal.
+I would like to start this book with some of the qualities you will have to develop as a leader in order to succeed in your endeavors.
 
 ## Planning and goal setting
 
-Learn to plan. Always have a plan to achieve your next goal. Your goal may be creation of the profitable business, a new shiny product, or a development iteration. 
+Learn to plan. Always have a plan to achieve your next goal. Your goal may be creation of the profitable business, a new product, or a software development iteration. 
 
-Start by defining a clear end goal, aim at highest standard. Start breaking the end goals into a list of smaller goals, or milestones that you need to achieve first. List a set of tasks you need to achieve each milestone. Break the tasks into tiny subtasks that you can do in under a week each.
+Start by defining a clear end goal, aim at highest standard. Once you have a goal, break it into a list of milestones that you need to achieve to get there. Then make a list a set of tasks you need to achieve each milestone. Break each tasks into smaller subtasks that you can accomplish without difficulty. 
 
-Get familiar with Gantt chart which graphically shows the progression of tasks until you achieve the milestones and end goals. Your subtasks should be so detailed and easy to achieve  in short period of time that traversing the Gantt chart should resemble the long walk down the staircase. The only thing required should be persistence.
+Get familiar with Gantt chart which graphically shows the progression of tasks towards the milestones. Your subtasks should be so detailed and easy to achieve in short period of time that traversing the Gantt chart should resemble the long stroll down the staircase. The only thing required should be persistence, and the right resources.
 
 
 
