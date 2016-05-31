@@ -10,9 +10,11 @@ Start by defining a clear end goal. Once you have a goal, break it into a list o
 
 Get familiar with Gantt chart which graphically shows the progression of tasks towards the milestones. Your subtasks should be so detailed and easy to achieve in short period of time that traversing the Gantt chart should resemble the long stroll down the staircase. The only thing required should be persistence and the right resources.
 
+### Critical Path
 
+Define a critical path that is the shortest path of absolutely necessary things you need to do to achieve your end-goal. It is nice to have all the bells and whistles, but if they are not getting you directly to your goals, maybe you should not spend time on them.
 
-Always know what tasks you need to achieve your goal, keep track of the progress towards your goal.
+Reference your plan often as it is very easy to get side-tracked by non-essential things that take you away from achieving your goals.
 
 ## Surround yourself with smarter people
 
@@ -22,7 +24,7 @@ Understand your limitations, nobody knows everything, surround yourself with peo
 
 Always educate people. Keeping stuff to yourself makes you a star with a one way ticket out.
 
-Our boss needs to answer his bosses smartly. You need to answer your boss and your team has to provide you with smart answers. New employee need education. Keep the information flow always going, always improving. Document things and keep the knowledge current. Audits happen and lack of knowledge base is a sign of weak leadership.
+Your boss or client needs to answer his bosses smartly. You need to answer your boss and your team has to provide you with smart answers. New employee need education. Keep the information flow always going, always improving. Document things and keep the knowledge current. Audits happen and lack of knowledge base is a sign of weak leadership.
 
 ## Always improve the process
 
