@@ -5,6 +5,7 @@ METADATA = metadata.xml
 
 CHAPTERS = \
 01_Foreword.md \
+02_Leadership.md \
 02_Passion.md \
 03_Product.md \
 04_Metrics.md \
@@ -18,6 +19,7 @@ CHAPTERS = \
 12_Marketing.md \
 13_Search.md \
 14_Testing.md \
+14a_Server_Connections.md \
 15_Monetizing.md \
 16_Voice_Calls.md \
 17_Company.md \

@@ -4,11 +4,11 @@ I would like to start this book with some of the qualities you will have to deve
 
 ## Planning and goal setting
 
-Learn to plan. Always have a plan to achieve your next goal. Your goal may be creation of the profitable business, a new product, or a software development iteration. 
+Learn to plan well. Always have a plan to achieve your next goal. Your goal may be creation of the profitable business, a new product, or a successful software development iteration. 
 
-Start by defining a clear end goal, aim at highest standard. Once you have a goal, break it into a list of milestones that you need to achieve to get there. Then make a list a set of tasks you need to achieve each milestone. Break each tasks into smaller subtasks that you can accomplish without difficulty. 
+Start by defining a clear end goal. Once you have a goal, break it into a list of milestones that you need to pass to get there. Then make a list a set of tasks you need to achieve each milestone. Break each tasks into smaller actionable subtasks that you can accomplish without difficulty. If any particular task is to long or too grand, try to break it down further.
 
-Get familiar with Gantt chart which graphically shows the progression of tasks towards the milestones. Your subtasks should be so detailed and easy to achieve in short period of time that traversing the Gantt chart should resemble the long stroll down the staircase. The only thing required should be persistence, and the right resources.
+Get familiar with Gantt chart which graphically shows the progression of tasks towards the milestones. Your subtasks should be so detailed and easy to achieve in short period of time that traversing the Gantt chart should resemble the long stroll down the staircase. The only thing required should be persistence and the right resources.
 
 
 
@@ -46,6 +46,9 @@ Always do more than is required of you.
 
 Be loyal to your team and expect the same.
 
+Mastery vs Success
+Success is the end result, the mastery is the
+Perfection of the process.
 
 
 
