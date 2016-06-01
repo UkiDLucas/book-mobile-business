@@ -4,11 +4,13 @@ I would like to start this book with some of the qualities you will have to deve
 
 ## Planning and goal setting
 
-Learn to plan well. Always have a plan to achieve your next goal. Your goal may be creation of the profitable business, a new product, or a successful software development iteration. 
+Learn to plan well. Always have a plan to achieve your next goal. Start by defining a clear end goal. Your goal may be a profitability, a new product, or a successful software development iteration. White board helps for initial brainstorming. Once you have a goal, break it into a list of milestones that you need to reach and pass to get there. Then, make a list a set of tasks you need to achieve each milestone. Break each tasks into smaller actionable subtasks that you can accomplish without difficulty. If any particular task is too long, or too grand, try to break it down further.
 
-Start by defining a clear end goal. Once you have a goal, break it into a list of milestones that you need to pass to get there. Then make a list a set of tasks you need to achieve each milestone. Break each tasks into smaller actionable subtasks that you can accomplish without difficulty. If any particular task is to long or too grand, try to break it down further.
+Simple Gantt chart, critical path in bold, dependencies makes by "x". Task 1.3 is not on critical path so it gets lesser priority, this could be preparation, or research task.
 
-Get familiar with Gantt chart which graphically shows the progression of tasks towards the milestones. Your subtasks should be so detailed and easy to achieve in short period of time that traversing the Gantt chart should resemble the long stroll down the staircase. The only thing required should be persistence and the right resources.
+![Simple Gantt chart](../images/Gantt.png "Simple Gantt chart, critical path in bold")
+
+Get familiar with Gantt chart which graphically shows the progression of tasks towards the milestones. The tasks can overlap in time only if you can actually multitask, or you have multiple people working on the at the same time. It is important to clearly identify the dependencies between particular tasks. Your subtasks should be so detailed and easy to achieve in short period of time that traversing the Gantt chart should resemble the long stroll down the staircase. The only thing required should be persistence and the right resources.
 
 ### Critical Path
 

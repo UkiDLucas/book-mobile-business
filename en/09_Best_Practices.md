@@ -1,12 +1,22 @@
 # BEST PRACTICES
 
+## UX and UI standards
+
+### Define Style Naming
+
+
+
 
 
 I don’t want to re-iterate the existing and very good documentation available for both Apple iOS and Android devices, but included are few tips that may not be voiced in official websites.
-Clarity of code over Performance
+
+### Clarity of code over Performance
+
 Very often developers and architects get into very academic (useless) discussions about a virtue of, for example, using Android RelativeLayout over LinearLayout to save on one UI element per record. The problem here is that RelativeLayout is much less readable and easy to understand than
 LinearLayout which may cause maintenance problems and poor graphic design. Also, the savings are minimal because we talk about couple of dozen of records and if you are displaying thousands of records you should change approach. I would be willing to sacrifice 1/1000 of a microsecond of performance for greater readability in this particular case.
-Using Correct Input Types and Keyboards
+
+## Using Correct Input Types and Keyboards
+
 Android provides developer with wide variety of input types and associated keyboards that help users with the task, the list below is very self-explanatory:
 date
 datetime
@@ -36,7 +46,9 @@ textUri
 textVisiblePassword
 textWebEditText
 time
-Technological Debt
+
+## Technological Debt
+
 Very often the project in the corporation goes like that:
 1) big boss sets a grandiose vision, everyone is excited
 2) idea of a really cool project is born, often with use of external
