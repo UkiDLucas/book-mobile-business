@@ -1,51 +1,50 @@
 # BEST PRACTICES
 
-## UX and UI standards
-
-### Define Style Naming
-
-
-
-
-
 I don’t want to re-iterate the existing and very good documentation available for both Apple iOS and Android devices, but included are few tips that may not be voiced in official websites.
 
-### Clarity of code over Performance
+## UX and UI standards
 
-Very often developers and architects get into very academic (useless) discussions about a virtue of, for example, using Android RelativeLayout over LinearLayout to save on one UI element per record. The problem here is that RelativeLayout is much less readable and easy to understand than
-LinearLayout which may cause maintenance problems and poor graphic design. Also, the savings are minimal because we talk about couple of dozen of records and if you are displaying thousands of records you should change approach. I would be willing to sacrifice 1/1000 of a microsecond of performance for greater readability in this particular case.
+### Define Style Guide Naming Conventions
 
-## Using Correct Input Types and Keyboards
+As soon as the first "visual assets" are created it is essential that the Style Guide Naming Conventions are created. It is very important that the whole team understands what we mean when we talk about "HEADER_1" vs "PARAGRAPH" text. The team should have a dictionary of about couple dozen, or so style name conventions that are clearly defined.
 
-Android provides developer with wide variety of input types and associated keyboards that help users with the task, the list below is very self-explanatory:
-date
-datetime
-number
-numberDecimal
-numberSigned
-phone
-text
-textAutoComplete
-textAutoCorrect
-textCapCharacters
-textCapSentences
-textCapWords
-textEmailAddress
-textEmailSubject
-textFilter
-textImeMultiLine
-textLongMessage
-textMultiLine
-textNoSuggestions
-textPassword
-textPersonName
-textPhonetic
-textPostalAddress
-textShortMessage
-textUri
-textVisiblePassword
-textWebEditText
-time
+A particular style details (i.e. parameters) may differ depending of the device size (iPhone 5, 6, 6+, Android MDPI, XHDPI, etc.) as well on the user's preferred language selection (i.e. English vs German).
+
+It is important that Android, iOS, etc. developers have common naming standards even if one platform's "PARAGRAPH" font is "Roboto" and the other's is "San Francisco".
+
+The color palette should also be named.
+
+The names should NOT imply the implementation details of the object, nor their location, for example LOGIN_BUTTON_BLUE violates both of the rules.
+
+The names should be always GENERIC_TO_SPECIFIC
+
+Examples of acceptable style names:
+
+- COLOR_PRIMARY
+- COLOR_SECONDARY
+- COLOR_BACKGROUND
+- COLOR_HYPERLINK
+- COLOR_BUTTON_CALL_TO_ACTION
+- BUTTON_DIALOG_POSITIVE
+- BUTTON_DIALOG_NEGATIVE
+
+The base styles should be implemented in a central location for each platform, so the changes to whole applications can be made instantly. 
+
+The styles can be "inherited" when it makes sense so the desired font family is (i.e. "Roboto")  is mentioned only once. Styles they can diverge while maintaining strict hierarchy in minimum duplication depending of aforementioned specific device size, app flavor or language selection.
+
+
+
+
+
+## Coding Standards
+
+### Clarity of Code over Performance
+
+It happens very often developers and architects get into very academic (entertaining and useless) discussions about a virtue of using one approach over another. Often, the academically right solution may increase future maintenance overhead costs, or cause poor user experience. 
+
+When choosing the solutions you should always prefer the clarity of user experience and readability of the code over small speed optimizations and kludgy (i.e. "clever") shortcuts.
+
+It is always cheaper to scale up to stronger CPUs and more memory than re-write the application, in case of the mobile by the time you rewrite the app users will move from quad to octal-CPU phones and double the memory and speed. 
 
 ## Technological Debt
 
@@ -77,7 +76,9 @@ mobile?
 It is important to follow the guidelines, especially from Apple, or your app may not be accepted. Consider if you want user to cover the content with their hand, if not don’t put the selections on top. Consider the physical size of the device and orientation, if user holds the device usually in one hand and select with the other, you should make it easier to do so.
 Consider that user often use thumbs in landscape on tablets, place the selections lower within the reach. Consider that many users like to use physical or Bluetooth keyboards, don’t force the virtual keyboard usage.
 Android user in most cases do not like Apple look-alike functionality, the menu works differently, navigational buttons should be utilized, the settings should make the app easy to use and flexible to customize.
-Content Prioritization
+
+### Content Prioritization
+
 For dynamically generated pages, it is a good practice to prioritize content in database in at least two* of the following:
 • *full site, 12 inch
 • extra large tablet, 10 inch (1200x800)
@@ -86,7 +87,9 @@ For dynamically generated pages, it is a good practice to prioritize content in 
 • medium phone (480x320)
 • small phone (320x240)
 If the budget does not allow for it, all devices above 1024x600 should be considered as a full resolution screens.
-User-Customized Content
+
+### User-Customized Content
+
 Another way to display less content on the mobile device is to customize the content for the particular user more aggressively on smaller devices. So for examples on the Web page we might display article, several related products and advertisements, on tablet we may go to article without additional content, fewer related products and less advertisement and on the phone we may display just the article, one suggested product and one ad banner. In each case the viewing experience has to be smooth, fast and well designed.
 
 Columns on display
@@ -108,7 +111,8 @@ More and more manufactures are not including the physical SEARCH button, and it 
 Android 3+ tablets are missing all the physical buttons, which I personally miss a lot. Samsung Galaxy 7 tablet has all 4 buttons, but Galaxy 10.1 already does not have any.
 I think as the voice recognition improves the button may come back, but for now only simple commands work and Google Voice mailbox is sometimes comical, everyone call me and says “Hello Auntie!”
 
-Multiple Navigational Menu Items
+### Multiple Navigational Menu Items
+
 On many websites it is common to see multiple buttons across the top of the screen that are easy to click with a mouse, on mobile this should be replaced with a drop-down, or selection list type of widget. Placing several small buttons next to each other is a big design mistake on the smaller displays.
 Ins and outs of Android Options Menu
 The standard Android Menu is one of the most common elements of an Android application, and provides users a familiar way to perform actions. It  contains a collection of primary options and functionality which shows up when the user touches the MENU button on the device.
