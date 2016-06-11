@@ -1,36 +1,4 @@
-# BEST PRACTICES
-
-I don’t want to re-iterate the existing and very good documentation available for both Apple iOS and Android devices, but included are few tips that may not be voiced in official websites.
-
-## UX and UI standards
-
-### Define Style Guide Naming Conventions
-
-As soon as the first "visual assets" are created it is essential that the Style Guide Naming Conventions are created. It is very important that the whole team understands what we mean when we talk about "HEADER_1" vs "PARAGRAPH" text. The team should have a dictionary of about couple dozen, or so style name conventions that are clearly defined.
-
-A particular style details (i.e. parameters) may differ depending of the device size (iPhone 5, 6, 6+, Android MDPI, XHDPI, etc.) as well on the user's preferred language selection (i.e. English vs German).
-
-It is important that Android, iOS, etc. developers have common naming standards even if one platform's "PARAGRAPH" font is "Roboto" and the other's is "San Francisco".
-
-The color palette should also be named.
-
-The names should NOT imply the implementation details of the object, nor their location, for example LOGIN_BUTTON_BLUE violates both of the rules.
-
-The names should be always GENERIC_TO_SPECIFIC
-
-Examples of acceptable style names:
-
-- COLOR_PRIMARY
-- COLOR_SECONDARY
-- COLOR_BACKGROUND
-- COLOR_HYPERLINK
-- COLOR_BUTTON_CALL_TO_ACTION
-- BUTTON_DIALOG_POSITIVE
-- BUTTON_DIALOG_NEGATIVE
-
-The base styles should be implemented in a central location for each platform, so the changes to whole applications can be made instantly. 
-
-The styles can be "inherited" when it makes sense so the desired font family is (i.e. "Roboto")  is mentioned only once. Styles they can diverge while maintaining strict hierarchy in minimum duplication depending of aforementioned specific device size, app flavor or language selection.
+# Programming Best Practices
 
 
 

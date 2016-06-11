@@ -1,6 +1,6 @@
 # Leadership
 
-I would like to start this book with some of the qualities you will have to develop as a leader in order to succeed in your endeavors.
+There are some qualities and habits you have to develop as a leader in order to succeed in your endeavors.
 
 ## Planning and goal setting
 
@@ -48,11 +48,11 @@ Never be too busy to improve the process. Not having time to improve the process
 
 ## Succeed as a manager
 
-A successful leader is measured by the team he builds, if the team grows and improves to a point the manager is no longer needed then it is a real sucess. There will always be next, better challenge for a great leader. There were plenty of companies and even empires that failed as soon as the leader was no longer there. From the point of view of people left behind and experiencing the fall it was a leadership failure. Having a great run at the cost of the people left behind is a sign of a weak personality.
+A successful leader is measured by the team he builds, if the team grows and improves to a point the manager is no longer needed then you can call it a real sucess. There will always be the next, bigger challenge for a great leader. There were plenty of companies and even empires that failed as soon as the leader was no longer there. From the point of view of people left behind, experiencing the fall, it was a leadership failure. Having a great run at the cost of the people left behind is a sign of a weak personality.
 
-You lead with what you contribute, not with your title, not even with your knowledge, or potential for greatness, you can be very smart, but this not mean you are fit to be a leader.
+You lead with what you contribute, not with your title, not even with your knowledge -- or potential for greatness, you can be very smart, but this does not mean you are fit to be a leader.
 
-Have mental strengtth and balance, be exacting. To be exacting is to be precise what you require from others and expect exact results.
+Have mental strengtth and balance, be exacting. To be exacting is to be precise in what you require from others and expect matching results.
 
 Lead with respect, justice and understanding and cooperation, not brute force.
 
@@ -68,9 +68,9 @@ Be loyal to your team and expect the same.
 
 ## Mastery vs Success
 
-Success is the end result of your efforts, some people live for the sake of glory, but these people are usually not your best friends and often their character is questionable.
+Success is a side-effect of your efforts, keep it that way. Some people live for the sake of glory, but these people are usually not your best friends and often their character is questionable.
 
- The mastery is the perfection of the process, constant improvement. For a person to master the process one has to be a good listener, a good friend to whom people are willing to talk, one has to be open minded and focused at the same time, one has to persistent to achieve, but self-critical to know when to pivot and change mind. You can always change your plans, but keep your eyes on the right goal.
+ The mastery is the perfection of the process, a way of constant improvement. For a person to master the process one has to be a good listener, a good friend to whom people are willing to talk, one has to be open minded and focused at the same time, one has to persistent to achieve, but self-critical to know when to pivot and change mind. You can adjust your plans, but always keep your eyes on the right goal.
 
 
 
