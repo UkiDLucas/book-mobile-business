@@ -1,4 +1,4 @@
-# Keeping Track of Things with Mobile Technology
+# Keeping Track of Things with Technology
 
 
 
@@ -9,6 +9,12 @@ The simplest solution to keep track of things is to have a person enter the desc
 The upgrade to the method is to use Mobile Device's Location service which detects GPS, Wi-Fi and cellular tower triangulation.
 
 ## Optical Reader
+
+The simplest optical readers only count the passing objects. In modern agriculture we are using optical reader gate to count timing of every seed going into the soil for planting, based on the reading the clutch controlling the speed of seeding can be advanced or retarded. This is important as the vehicle slows down and speeds up.
+
+The more advanced robotic systems count and monitor the quality of items passing thru on the assembly line. The similar technique is used in AI systems playing checkers, chess and recently Go games.
+
+The most advanced systems can actually recognize the objects such as license plate readers used by police, or security cameras in the airports. These technologies use Machine Learning techniques such as image recognition popularized by Google.
 
 
 
