@@ -30,7 +30,7 @@ Cortisol is the stress hormone produced by adrenal glands above kidneys. Cortiso
 
 **(tip 8: instead of TV, or phone, read a book for 45 minutes in bed with soft yellow illumination)**
 
-Older people, or people who cannot perceive the light may have problems with the meaning and cortisol levels and therefore do not sleep well at night and take frequent naps during the day.
+Older people, new parents and people who cannot perceive the light may have problems with the Melatonin and Cortisol levels and therefore do not sleep well at night and take unscheduled naps during the day. Disturbed sleep is better than no sleep, but disturbance in the circadian rhythm may have cumulative effect on well being.
 
 
 As already mentioned humans evolved in equatorial region where during the mid-day they had to take a break from the sun, during that period they enjoyed a relative safety as most of the predators rest in the shade. **(tip 9: Plan your siesta breaks, if possible take a short nap)**
