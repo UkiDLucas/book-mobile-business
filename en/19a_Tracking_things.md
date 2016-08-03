@@ -24,7 +24,11 @@ The most advanced systems can actually recognize the objects such as license pla
 
 Bar codes and QR codes look simple, but actually they are very labor intensive solution as the need to be printed. The advantage of using codes is that any phone with optical camera can scan them. With use of a simple code library, the app can be adapted to take advantage of them making it an excellent for consumer applications. Optical camera scanning is slow, for professional use when speed is required we use a separate red laser scanners, which are commonly used in retail stores.
 
-\- NFC stickers: low maintenance and very LOWEST COST, very close range, fast to implement and set up: good if employee uses phone to CATALOGUE items with use of GPS and SHELF location (selection). Can be implement on MOST Android phones for cheap.
+The most commonplace use of the bar codes are ISBN number on the books and bar codes on products in retail. QR codes are commonly used in poster advertisements when customer interaction is desired. QR codes can be designed into pretty images.
+
+## NFC stickers
+
+NFC stickers are low maintenance and very cost little, you can order packets of them for cents-per-unit price. NFC are very practical when we want to identify things at very close range, fast to implement and set up: good if employee uses phone to CATALOGUE items with use of GPS and SHELF location (selection). Can be implement on MOST Android phones for cheap.
 
 \- RFID passive tags: we used them in Sears/KMart warehouses when WHOLE pallets of items had to cross without unpacking. Today you can get several feet radius, good for warehouse. Portable scanners (NOT PHONE) can be used to Catalogue the SHELF location.
 
