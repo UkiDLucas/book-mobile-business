@@ -36,8 +36,14 @@ The most common use of NFC is in retail for Apple and Google Pay services.
 
 ## RFID passive tags
 
- we used them in Sears/KMart warehouses when WHOLE pallets of items had to cross without unpacking. Today you can get several feet radius, good for warehouse. Portable scanners (NOT PHONE) can be used to Catalogue the SHELF location.
+ RF tags are commonly used in retail to detect shoplifting, RF tag is very similar to NFC tag, but has longer range of few feet. They can be coded to represent an item serial number. Passive RF tags are antennas which reflect radio signal of the scanner. 
 
-\- RFID active tags: think iPass. Expensive.
+RF tags are used in warehouses when whole pallets of items have to enter without unpacking. Portable scanners, but unfortunately not standard phones, can be used to catalogue particular item's shelf location.
 
-\- Electronic Devices with GPS and cellular (or satellite) connection are used to track moving tracks, ships and airplanes.
+### RFID active tags
+
+Active RF tags work same way as regular RF stickers, but they are batter operated and can broadcast their signal up to 100 meters. The most common use is the tollway pass (e.g. iPass). They are expensive, therefore applicable only to tracking big items such as containers.
+
+## Electronic Devices with GPS and cellular (or satellite) connection 
+
+These are used to track moving tracks, ships and airplanes. There is a variety of manufactures providing them, but basically they are low voltage, single purpose phones that send the location on per-need basis.
