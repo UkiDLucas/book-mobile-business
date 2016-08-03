@@ -18,4 +18,17 @@ There are two hormones that are directly related to sleep.
 
 Melatonin is a sleep hormone that is secreted by pineal gland after dark with the peak in the middle of the night and absence during the day. The amount and timing of the melatonin is similar for the same person from night to night and this is a reason when people who change time zones experience jet lag over next few days. Melatonin is mostly controlled by the amount of light present and adjustment is slow. 
 
-Cortisol is the stress hormone produced by adrenal glands above kidneys. Cortisol is closely related to quality of sleep. The levels of cortisol peak in regular intervals every hour, in fact lack of these peaks leads to apathy.
+**(tip 4: Plan using bathroom which usually has bright, full spectrum light, well before going to sleep, or install yellow light to be used in the evening)**
+
+Cortisol is the stress hormone produced by adrenal glands above kidneys. Cortisol is closely related to quality of sleep. The levels of cortisol peak in regular intervals every hour during the day, in fact lack of these peaks leads to apathy. The cortisol peak levels should be much lower during the night, but stress can trigger them.
+
+**(tip 5: Avoid stress, even minor, such as hot or cold shower before the sleep as it can increase Cortisol levels for up to an hour)**
+
+**(tip 6: At night, avoid TV and light emitting displays such as phones, it needed change color balance to yellow, there are software packages for that)**
+
+**(tip 7: instead of TV, or phone read a book for 45 minutes in bed with yellow light)**
+
+Older people, or people who cannot perceive the light may have problems with the meaning and cortisol levels and therefore do not sleep well at night and take frequent naps during the day.
+
+
+To be completed...
