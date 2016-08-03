@@ -28,9 +28,15 @@ The most commonplace use of the bar codes are ISBN number on the books and bar c
 
 ## NFC stickers
 
-NFC stickers are low maintenance and very cost little, you can order packets of them for cents-per-unit price. NFC are very practical when we want to identify things at very close range, fast to implement and set up: good if employee uses phone to CATALOGUE items with use of GPS and SHELF location (selection). Can be implement on MOST Android phones for cheap.
+NFC stickers are low maintenance and cost very little, you can order packets of them for cents-per-unit. NFC are very practical when we want to identify things at very close range. The technology is fast to implement and easy to set up, usually you place a sticker on the product and encode it with short information such as serial number of a product, name, or URL, the link could fetch additional metadata via JSON, or XML. 
 
-\- RFID passive tags: we used them in Sears/KMart warehouses when WHOLE pallets of items had to cross without unpacking. Today you can get several feet radius, good for warehouse. Portable scanners (NOT PHONE) can be used to Catalogue the SHELF location.
+NFC is an excellent solution if the employee uses phone to catalogue items with use of GPS and shelf location, by selecting location options,  it can be implement on most Android phones without need for external hardware.
+
+The most common use of NFC is in retail for Apple and Google Pay services.
+
+## RFID passive tags
+
+ we used them in Sears/KMart warehouses when WHOLE pallets of items had to cross without unpacking. Today you can get several feet radius, good for warehouse. Portable scanners (NOT PHONE) can be used to Catalogue the SHELF location.
 
 \- RFID active tags: think iPass. Expensive.
 
