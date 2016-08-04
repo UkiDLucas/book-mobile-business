@@ -10,7 +10,7 @@ This article does not serve to detail the science of sleep in depth, but to prov
 
 ## Circadian Rhythm
 
-Sleep is tightly related to circadian rhythm which for humans is 24 hours, humans have evolved near the equator therefore the rhythm is divided into 12 hour day and night periods. The animals that have evolved in arctic regions may have specific adaptations. **(tip 1: adjust your day by scheduling 12 hours of day activity and 12 hours of night down time)** 
+Sleep is tightly related to circadian rhythm which for humans is 24 hours, humans have evolved near the equator therefore the rhythm is divided into 12 hour day and night periods. The animals that have evolved in arctic regions may have specific adaptations. **(tip 1: adjust your day by scheduling 12 hours of day activity and 12 hours of night down time, any stress producing activity should be done at least 1 hour before sleep)** 
 
 ## Biological Clock
 
@@ -32,9 +32,9 @@ The light during the day has full color spectrum including blue, the sunrise and
 
 **(tip 3: Avoid natural, full spectrum light bulbs and LED lights during the 12 hour night rest period, use yellow light bulbs and dimmers instead)**
 
-**(tip 4: Avoid wearing sunglasses in the morning when is is not necessary)**
+**(tip 4: Avoid wearing sunglasses in the morning when it is not necessary)**
 
-**(tip 4: At night, avoid TV and light emitting displays such as phones, if needed, change color balance to yellow, most devices support "night mode" and dim functions.)**
+**(tip 4: At night, avoid TV and light emitting displays such as phones. If necessary, change color balance to yellow, most devices support "night mode" and dim functions.)**
 
 ## Hormones
 
@@ -42,15 +42,17 @@ There are two major hormones that are directly related to sleep: Melatonin and C
 
 ### Melatonin
 
-Melatonin is a sleep hormone that is secreted by pineal gland after dark with its peak in the middle of the night and it is almost entirely absent during the day. Melatonin is mostly controlled by the amount of light present and adjustment is slow. The amount and the timing of the melatonin is similar for the a person from night to night and this is a reason why people who change time zones experience jet lag over next few days.  
+Melatonin is a sleep hormone that is secreted by pineal gland after dark with its peak in the middle of the night (3 AM) and it is almost entirely absent during the day. Melatonin is mostly controlled by the intensity of blue light present and the day-to-day re-adjustment is slow. The amount and the timing of the melatonin is similar for the a person from night to night and this is a reason why people who change time zones experience jet lag over next few days.  
 
-(tip 3: People who have hard time adjusting their circadian biological clock use vigorous exercise during the daytime and melatonin over the counter tablets before going to sleep)
+
 
 **(tip 5: Plan using bathroom which usually has bright, full spectrum light, well before going to sleep, or install yellow light to be used in the evening)**
 
 ### Cortisol
 
 Cortisol is the stress hormone produced by adrenal glands above kidneys. Cortisol is closely related to quality of sleep. The levels of cortisol peak in regular intervals every hour during the day, in fact lack of these peaks leads to apathy. **(tip 6: Get up and walk around, talk to people at least once an hour during the day)** The cortisol peak levels should be much lower during the night, but stress can trigger them.
+
+**(tip 3: People who have hard time adjusting their circadian biological clock use vigorous exercise several times during the daytime to produce Cortisol and melatonin over the counter tablets before going to sleep)**
 
 **(tip 7: Avoid stress before sleep, even minor triggers such as hot or cold shower can increase Cortisol levels for up to an hour)**
 
