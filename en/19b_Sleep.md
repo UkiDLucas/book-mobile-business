@@ -10,27 +10,41 @@ This article does not serve to detail the science of sleep in depth, but to prov
 
 ## Circadian Rhythm
 
-Sleep is tightly related to circadian rhythm which for human is 24 hours, humans have evolved near the equator therefore the rhythm is divided into 12 hour day and night periods. The animals that evolved in arctic regions have specific adaptations. **(tip 1: adjust your day by scheduling 12 hours of day activity and 12 hours of night resting)** The rhythm is controlled by biological clock, which is a group of cells in the primitive part of brain called hypothalamus. The biological clock is working on the cellular level which means each cell has it, in fact all organisms, down to a single cell bacteria has a biological clock.
+Sleep is tightly related to circadian rhythm which for humans is 24 hours, humans have evolved near the equator therefore the rhythm is divided into 12 hour day and night periods. The animals that have evolved in arctic regions may have specific adaptations. **(tip 1: adjust your day by scheduling 12 hours of day activity and 12 hours of night down time)** 
 
 ## Biological Clock
 
-The biological clock in humans is controlled by light receptors in the eye. People who are exposed to constant light, or constant darkness get their biological clock severely disturbed which affects their ability to sleep. Not all blind people loose their circadian rhythm as vision is provided by rods and cones photoreceptors and the biological clock uses another set of photoreceptors called ganglion cells in the retina - blind person may not be aware that their brain sees the light. **(tip 2: maintain a contrast of day light and night darkness)**
+The circadian rhythm is controlled by biological clock, which is a group of cells near the primitive part of brain called hypothalamus. The biological clock is working on the cellular level which means each cell has it, in fact all organisms, down to a single cell bacteria has a biological clock.
+
+The biological clock in humans is controlled by light receptors in the eye photoreceptors called ganglion cells in the retina. 
+
+People who are working the night shift, or travel across multiple time zones have their biological clock severely disturbed which affects their ability to sleep, sometimes for several days after returning to natural conditions. 
+
+ **(tip 2: maintain a constant contrast of day-time light and night-time darkness, even if working the night shift, use bright lights and blinds as needed)**
+
+Not all blind people loose their circadian rhythm as vision is provided by Rods and Cones photoreceptors and the biological clock uses ganglion cells that may not be damaged, hence the blind person may not be aware that their brain sees the light.
 
 ## Color Spectrum
+
+The Ganglion photoreceptor cells are mostly sensitive to blue light spectrum.
 
 The light during the day has full color spectrum including blue, the sunrise and sunset are in the yellow to red color range, the brain responds to the composition of the light spectrum and adjusts circadian rythm accordingly. 
 
 **(tip 3: Avoid natural, full spectrum light bulbs and LED lights during the 12 hour night rest period, use yellow light bulbs and dimmers instead)**
 
-**(tip 4: At night, avoid TV and light emitting displays such as phones, if needed, change color balance to yellow, most devices support night mode and dim functions.)**
+**(tip 4: Avoid wearing sunglasses in the morning when is is not necessary)**
+
+**(tip 4: At night, avoid TV and light emitting displays such as phones, if needed, change color balance to yellow, most devices support "night mode" and dim functions.)**
 
 ## Hormones
 
-There are two hormones that are directly related to sleep Melatonin and Cortisol. 
+There are two major hormones that are directly related to sleep: Melatonin and Cortisol. 
 
 ### Melatonin
 
 Melatonin is a sleep hormone that is secreted by pineal gland after dark with its peak in the middle of the night and it is almost entirely absent during the day. Melatonin is mostly controlled by the amount of light present and adjustment is slow. The amount and the timing of the melatonin is similar for the a person from night to night and this is a reason why people who change time zones experience jet lag over next few days.  
+
+(tip 3: People who have hard time adjusting their circadian biological clock use vigorous exercise during the daytime and melatonin over the counter tablets before going to sleep)
 
 **(tip 5: Plan using bathroom which usually has bright, full spectrum light, well before going to sleep, or install yellow light to be used in the evening)**
 
