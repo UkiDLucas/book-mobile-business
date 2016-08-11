@@ -1,10 +1,14 @@
 # Sleep Science and Mobile Devices
 
+## Overview
 
+In this article we will review the biological basis that control sleep such as amount and spectrum of light, amount of sleep and hormonal influence sleep has on the body. We will also suggest potential behavioral tips which include electronic device user experience improvements.
+
+### Importance of Sleep
 
 Sleep is absolutely essential for healthy life. It has more influence on person's health than food consumed and the amount of exercise, therefore it should be an essential part of any wellness program.  
 
-We do not fully understand all processes during sleep, but we have enough knowledge about the science of sleep to provide a general guidelines.
+Scientists do not fully understand all processes during sleep, but we have enough knowledge about the science of sleep to provide a general guidelines.
 
 This article does not serve to detail the science of sleep in depth, but to provide a background information and lifestyle tips to improve personal wellness. This article is not a substitute for a professional health advise.
 
@@ -68,6 +72,6 @@ Older people, new parents and people who cannot perceive the light may have prob
 
 
 
+## Mobile Device Implementation
 
-
-To be completed...
+The two major mobile platforms 
